@@ -1,0 +1,4 @@
+build/*
+dist/*
+saved_signatures/*
+app.spec
